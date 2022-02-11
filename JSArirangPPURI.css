@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'JSArirangPPURI';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangPPURI.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangPPURI.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangPPURI.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangPPURI.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangPPURI.ttf') format("truetype");
+    font-display: swap;
+} 

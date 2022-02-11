@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'JSArirangHON';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangHON.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangHON.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangHON.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangHON.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/jeongseon/JSArirangHON.ttf') format("truetype");
+    font-display: swap;
+} 
