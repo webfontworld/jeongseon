@@ -65,7 +65,7 @@
 # 정선동강체(JSDongkang)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/JSDongkang/JSDongkang.jpg" alt="JSDongkang" style="width:300px">
+    <img src="https://webfontworld.github.io/jeongseon/JSDongkang.jpg" alt="JSDongkang" style="width:300px">
 </a>
 <pre>
 @font-face {
